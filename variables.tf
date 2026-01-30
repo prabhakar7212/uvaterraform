@@ -1,6 +1,6 @@
 variable "resource_group_name" {
   type    = string
-  default = "uvarg"
+  default = "uvaRG"
 }
 
 variable "location" {
